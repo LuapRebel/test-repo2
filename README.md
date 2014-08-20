@@ -1,4 +1,4 @@
 test-repo2
 ==========
 
-demo2
+This is my demo.
